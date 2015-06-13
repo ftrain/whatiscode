@@ -12,13 +12,16 @@
   * TK
   
 * Art and Design
-  * Clinton Cargill
   * Cynthia Hoffman
-  * TK
   * Rob Vargas
-  * TK
+  * Chris Nosenzo
+  * Dorothy Gambrell
+  * Shawn Hasto
+  * Tracy Ma
 
 * Photography
+  * Clinton Cargill
+  * Meagan Ziegler-Haynes
   * Diana Suryakusuma
   * TK
   * TK
@@ -27,6 +30,7 @@
 * Copy
   * David Purcell
   * Minette Valeriano
+  * Bill Elstrom
   * TK
   
 * Web Team
@@ -38,6 +42,9 @@
   * Adam Pearce
   * Aaron Rutkoff
   * Bernadette Walker
+  * Keith Collins
+  * Julian Burgess
+  * David Harding
 
 * Zeitgeist
   * Rachel Nagler
